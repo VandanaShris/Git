@@ -5,6 +5,7 @@ public class Samle1 {
 		{
 		
 		System.out.println();
+			System.out.println("1");
 
 }
 	}
